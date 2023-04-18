@@ -2,9 +2,9 @@
 
 
 # 💫 About Me:
-Astute Data Scientist with data-driven and technology-focused approach. Communicates clearly with stakeholders and builds consensus around well-founded models. Talks about #ai4good, #datascience, #machinelearning, #pythonautomation, and #businessanalytics<br><br>    
+As an astute Data Scientist, my approach is data-driven and technology-focused. I prioritize clear communication with stakeholders and consensus-building around well-founded models. My areas of expertise include #ai4good, #datascience, #machinelearning, #pythonautomation, and #businessanalytics. With a strong commitment to innovation and problem-solving, I bring a collaborative and results-oriented approach to every project I undertake.<br><br>    
 - Nairobi, Kenya is where I'm located.<br>    
-- Contact me via gibwanjau0@gmail.com<br>
+- Contact me via gibwanjau0@gmail.com.<br>
 - Currently learning Data Science/ML.<br>
 - Open to collaborating on AI/ML projects.<br>
 - Fun fact: I prefer using tabs over spaces.<br>
