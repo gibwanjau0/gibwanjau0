@@ -1,5 +1,6 @@
 # Data Science | Machine Learning 
 
+
 # 💫 About Me:
 Astute Data Scientist with data-driven and technology-focused approach. Communicates clearly with stakeholders and builds consensus around well-founded models. Talks about #ai4good, #datascience, #machinelearning, #pythonautomation, and #businessanalytics<br><br>    
 - Nairobi, Kenya is where I'm located.<br>    
