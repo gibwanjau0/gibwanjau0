@@ -1,4 +1,4 @@
-# Data Science | Macine Learning 
+# Data Science | Machine Learning 
 # 💫 About Me:
 Astute Data Scientist with data-driven and technology-focused approach. Communicates clearly with stakeholders and builds consensus around well-founded models. Talks about #ai4good, #datascience, #machinelearning, #pythonautomation, and #businessanalytics<br><br>    -round_pushpin Nairobi, Kenya is where I'm located.<br>    -email Contact me via gibwanjau0@gmail.com.com.<br>    -brain Currently learning Data Science/ML.<br>    -handshake Open to collaborating on AI/ML projects.<br>    -zap Fun fact: I prefer using tabs over spaces.<br>    -globe_with_meridians Check out my socials for some amazing and eye-catching content.<br><br>
 
